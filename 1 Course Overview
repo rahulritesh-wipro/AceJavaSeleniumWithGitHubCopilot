@@ -1,0 +1,111 @@
+GitHub Copilot for Automation Scripting
+
+
+Hey everyone, welcome to this exciting course on using GitHub Copilot tool for Selenium Automation Scripts generation. 
+
+If you're someone who's working with Selenium or just getting started with automation testing, this video is going to show you how AI can supercharge your scripting workflow.
+
+
+In this course, I’m using Selenium with Java, along with the BDD Cucumber framework, to generate automation scripts.
+
+But here’s the key takeaway — once you understand the approach of using GitHub Copilot, you’re not limited to just Java or Selenium.
+
+You can apply the same Copilot-assisted workflow to any other programming language or any other automation framework — whether it’s Python with PyTest, JavaScript with Cypress, or even API testing tools.
+
+So it’s not just about learning a tool — it’s about learning a smart way to code faster and better, no matter what tech stack you’re working with.
+
+Section 1 - Foundation of GitHub Copilot
+Section 2 - Practical Demonstration on scripts Generation
+Section 3 - Best Practices and Limitations
+
+Welcome to the first section of this course — Introduction to GitHub Copilot.
+
+Before we dive into automation scripting, it’s important to understand the foundation of "what GitHub Copilot really is."
+Let’s break it down.
+Then, we’ll understand what Git is
+And First, we’ll look at what a Version Control System actually means
+And Finally, we’ll explore what GitHub is
+
+We’ll also explore:
+
+Who owns GitHub Copilot?
+What is an LLM — a Large Language Model?
+Which LLM powers GitHub Copilot?
+And most importantly — what are the real benefits of using Copilot for automation scripting or coding?
+
+Next, I’ll walk you through:
+
+🔑 How to get a GitHub Copilot subscription from GitHub.com
+💻 How to set up GitHub Copilot in both IntelliJ IDEA and Visual Studio Code
+Whether you're using IntelliJ for Java or VS Code for other languages, I’ll show you how to get Copilot up and running in just a few minutes.
+
+By the end of this section, you’ll have a clear understanding of what GitHub Copilot is, how it works, and how to set it up in your development environment — so you’re ready to start using it for automation scripting with Selenium and Java.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+In Section 2 - We will see the practical demonstration for Utilizing GitHub Copilot for Automation Scripting with Selenium Java and BDD Cucumber.Like complete automation scripting workflow, powered by GitHub Copilot.
+✅ Creating Feature Files from Test Cases
+We’ll start by converting manual test cases into Cucumber feature files using Gherkin syntax. You’ll see how Copilot can help you write clear, structured scenarios with minimal effort.
+
+✅ Building Page Locators and Page Actions Classes
+Next, we’ll create Page Object Model (POM) classes — separating locators and actions for better maintainability. Copilot will assist in generating locators, methods, and reusable actions.
+
+✅ Writing Step Definitions
+We’ll then map our feature steps to Java methods using Step Definition classes. Copilot will help us implement these methods quickly, suggesting Selenium commands and logic as we type.
+
+✅ Creating the Test Runner Class
+You’ll learn how to set up a Test Runner class using Cucumber and TestNG or JUnit. Copilot will help generate the boilerplate code and configuration needed to execute your test suite.
+
+✅ Generating the Suite XML File
+Finally, we’ll create a TestNG suite XML file to organize and run our test classes. Copilot will assist in structuring the XML and linking it with your test runner.
+
+
+Throughout the course, you’ll see how GitHub Copilot acts like your coding assistant, helping you write automation scripts faster, with fewer errors, and more confidence.
+
+Whether you're a beginner or an experienced tester, this course will help you automate smarter — not harder.
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Section 3 We will see the Best Practices and Limitations
+
+"Stay tuned — I’ll soon be sharing more videos on how to handle various Selenium Java scenarios using AI-powered techniques."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
