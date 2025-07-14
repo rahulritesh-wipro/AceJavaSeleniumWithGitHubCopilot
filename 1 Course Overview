@@ -6,6 +6,32 @@ Hey everyone, welcome to this exciting course on using GitHub Copilot tool for S
 If you're someone who's working with Selenium or just getting started with automation testing, this video is going to show you, how AI can supercharge your scripting workflow.
 
 
+🎙️ Polished & Professional:
+"Before we dive into the course overview, let me take a moment to introduce myself."
+
+🎯 Confident & Direct:
+"But first, a quick introduction — so you know who’s guiding you through this journey."
+
+🎥 Friendly & Conversational:
+"Now, before we jump into what this course has to offer, let me quickly tell you a bit about myself."
+
+
+I’m currently working as a Test Automation Lead, and I bring along over 9 years of hands-on experience in the world of automation engineering.
+
+Over the years, I’ve had the chance to work across some of the most exciting and challenging domains — from Banking and Payments to E-commerce, Salesforce CRM, and even SAP ERP systems.
+
+Each of these industries taught me something new — how to build smarter frameworks, solve real-world testing problems, and deliver automation solutions that actually make a difference.
+
+And now, I’m here to share all of that with you — along with some powerful AI tools like GitHub Copilot that are changing the way we write automation scripts.
+
+So buckle up — we’re about to make automation faster, smarter, and a whole lot more fun!
+
+Alright — now that you know a bit about me and how this course is structured…
+
+👉 Let’s jump right into the course introduction!
+
+In the next few minutes, I’ll walk you through exactly what you’ll be learning, how we’ll be using GitHub Copilot alongside Selenium with Java, and how each section is designed to help you build real-world automation scripts — faster and smarter.
+
 In this course, I’m using Selenium with Java, along with the BDD Cucumber framework, to generate automation scripts.
 
 But here’s the key takeaway — once you understand the approach of using GitHub Copilot, you’re not limited to just Java or Selenium.
@@ -36,7 +62,50 @@ final draft
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
+Here’s your **complete course introduction transcript**, now including your personal introduction and a smooth transition into the course overview:
 
+---
+
+**[Intro Music Fades In]**
+
+**Instructor (on screen, smiling and confident):**  
+Hey there! I’m thrilled to welcome you to this course on **GitHub Copilot for Automation Scripting with Selenium Java**.
+
+Before we dive into what this course has to offer, let me quickly tell you a bit about myself — so you know who’s guiding you through this journey.
+
+I’m currently working as a **Test Automation Lead**, with **over 9 years of experience** in automation engineering. I’ve worked across a wide range of domains including **Banking**, **Payments**, **E-commerce**, **Salesforce CRM**, and **SAP ERP**.
+
+Throughout my career, I’ve built and led automation frameworks that are scalable, efficient, and aligned with real-world project needs. And now, I’m here to help you do the same — with the power of **AI-assisted coding**.
+
+---
+
+**[Cut to Slide: “Course Structure”]**
+
+This course is structured into **three well-organized sections**, each designed to guide you step by step:
+
+---
+
+### **Section 1: Foundation of GitHub Copilot**  
+We’ll start by understanding what GitHub Copilot is, how it works, and how to set it up in your IDE. We’ll also cover the basics of Git, GitHub, version control, and the AI model behind Copilot.
+
+---
+
+### **Section 2: Practical Demonstration on Script Generation**  
+This is where we get hands-on. You’ll learn how to use Copilot to generate automation scripts — including feature files, page locators, action classes, step definitions, test runners, and suite XML files — all using **Selenium with Java and BDD Cucumber**.
+
+---
+
+### **Section 3: Best Practices and Limitations**  
+Finally, we’ll wrap up with some key insights on how to use Copilot effectively, what to watch out for, and how to ensure your automation code is clean, reliable, and production-ready.
+
+---
+
+**Instructor (on screen):**  
+Whether you're just starting out or looking to enhance your existing automation skills, this course will help you **code faster, smarter, and more efficiently** — with the help of AI.
+
+Let’s get started!
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 
