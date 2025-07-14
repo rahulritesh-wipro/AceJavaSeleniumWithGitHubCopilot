@@ -3,7 +3,7 @@ GitHub Copilot for Automation Scripting
 
 Hey everyone, welcome to this exciting course on using GitHub Copilot tool for Selenium Automation Scripts generation. 
 
-If you're someone who's working with Selenium or just getting started with automation testing, this video is going to show you how AI can supercharge your scripting workflow.
+If you're someone who's working with Selenium or just getting started with automation testing, this video is going to show you, how AI can supercharge your scripting workflow.
 
 
 In this course, I’m using Selenium with Java, along with the BDD Cucumber framework, to generate automation scripts.
@@ -14,9 +14,43 @@ You can apply the same Copilot-assisted workflow to any other programming langua
 
 So it’s not just about learning a tool — it’s about learning a smart way to code faster and better, no matter what tech stack you’re working with.
 
-Section 1 - Foundation of GitHub Copilot
-Section 2 - Practical Demonstration on scripts Generation
-Section 3 - Best Practices and Limitations
+"We’ve divided this course into three well-organized sections, each designed to guide you through the learning process in a clear and structured way."
+
+Section 1: Foundation of GitHub Copilot
+In this section, we’ll build a strong foundation by understanding what GitHub Copilot is, how it works, and how to set it up in your development environment. We’ll also explore the concepts of Git, GitHub, version control systems, and the AI technology behind Copilot.
+
+Section 2: Practical Demonstration on Script Generation
+Here’s where we get hands-on. You’ll see how to use GitHub Copilot to generate automation scripts step by step — from creating feature files and page object classes to writing step definitions, test runners, and suite XML files. Everything will be demonstrated live using Selenium with Java and the BDD Cucumber framework.
+
+Section 3: Best Practices and Limitations
+Finally, we’ll wrap up with some important insights. You’ll learn the best practices for using Copilot effectively, understand its limitations, and how to ensure the code it generates is reliable, maintainable, and production-ready.
+
+
+Each section is packed with practical knowledge and real-world examples to help you become confident in using GitHub Copilot for automation scripting.
+
+Let’s get started!
+
+final draft
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Welcome to the first section of this course — Introduction to GitHub Copilot.
 
